@@ -2,7 +2,9 @@
 
 Diwali Sales Analytics
 
+# Problem Statement
 
+During the Diwali festive season, an Indian retailer wants to identify high-value customer segments, top-performing product categories, and revenue-contributing regions — to optimise pre-season inventory planning and run targeted marketing campaigns for future festive cycles.
 
 # Interactive Charts
 
@@ -14,4 +16,9 @@ Diwali Sales Analytics
 
 # Sample Dashboard
 
-![image alt](
+![image alt](https://github.com/vaishnavi-selvamraj/DIWALI-SALES-ANALYSIS/blob/main/Screenshot%20(67).png?raw=true)
+
+#Tools used
+
+1. Excel
+2. Power BI
