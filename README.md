@@ -18,7 +18,7 @@ During the Diwali festive season, an Indian retailer wants to identify high-valu
 
 ![image alt](https://github.com/vaishnavi-selvamraj/DIWALI-SALES-ANALYSIS/blob/main/Screenshot%20(67).png?raw=true)
 
-#Tools used
+# Tools used
 
 1. Excel
 2. Power BI
